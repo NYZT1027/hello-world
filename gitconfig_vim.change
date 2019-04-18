@@ -1,0 +1,6 @@
+#change the default editor from nano to vim
+change file:
+~/.gitconfig
+add lines:
+[core]
+	editor = vim
